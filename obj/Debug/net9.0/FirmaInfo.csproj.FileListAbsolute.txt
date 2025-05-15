@@ -1,0 +1,14 @@
+C:\Users\catal\source\repos\FirmaInfo\bin\Debug\net9.0\FirmaInfo.exe
+C:\Users\catal\source\repos\FirmaInfo\bin\Debug\net9.0\FirmaInfo.deps.json
+C:\Users\catal\source\repos\FirmaInfo\bin\Debug\net9.0\FirmaInfo.runtimeconfig.json
+C:\Users\catal\source\repos\FirmaInfo\bin\Debug\net9.0\FirmaInfo.dll
+C:\Users\catal\source\repos\FirmaInfo\bin\Debug\net9.0\FirmaInfo.pdb
+C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\FirmaInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\FirmaInfo.AssemblyInfoInputs.cache
+C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\FirmaInfo.AssemblyInfo.cs
+C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\FirmaInfo.csproj.CoreCompileInputs.cache
+C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\FirmaInfo.dll
+C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\refint\FirmaInfo.dll
+C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\FirmaInfo.pdb
+C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\FirmaInfo.genruntimeconfig.cache
+C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\ref\FirmaInfo.dll
