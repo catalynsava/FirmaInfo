@@ -24,7 +24,7 @@ public class FirmaService
     {
         try
         {
-            string url = $"https://openapi.ro/api/cui/{cui.Trim()}";
+            string url = $"https://api.openapi.ro/api/validate/cif/{cui.Trim()}";
             HttpResponseMessage response = await client.GetAsync(url);
 
             if (!response.IsSuccessStatusCode)

@@ -12,3 +12,4 @@ C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\refint\FirmaInfo.dll
 C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\FirmaInfo.pdb
 C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\FirmaInfo.genruntimeconfig.cache
 C:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\ref\FirmaInfo.dll
+c:\Users\catal\source\repos\FirmaInfo\obj\Debug\net9.0\FirmaInfo.sourcelink.json
